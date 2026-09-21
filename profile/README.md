@@ -4,7 +4,7 @@
 
 # consent.app
 
-**Digital consent forms — signed, timestamped, and audit-ready.**
+**Consent, built for agents.**
 
 [Website](https://consent.app/en/) · [Start for Free](https://consent.app/portal/auth/signup) · [FAQ](https://consent.app/en/resources/faq) · [Contact](mailto:info@consent.app)
 
@@ -14,19 +14,21 @@
 
 ## What we build
 
-**consent.app** replaces paper forms and clipboards with a simple digital flow: people review and approve on their own phone — no account required — and you get a verified, timestamped record you can rely on.
+consent.app is the API and skill layer for verifiable consent — designed so any agent, workflow, or third-party system can request, collect, and confirm consent without building compliance infrastructure from scratch.
 
-One tool for every kind of consent: parental permissions, liability waivers, photo & video releases, age confirmation, emergency & health info, confidentiality agreements, and more.
+Give any agentic workflow a drop-in way to ask for permission and get a verifiable "yes": parental permissions, liability waivers, photo & video releases, age confirmation, emergency & health info, confidentiality agreements, and more — all triggerable programmatically, all auditable.
 
-- **Audit-ready by default** — every consent is timestamped, cryptographically signed, and kept as a full audit trail
-- **No app required to sign** — recipients approve via a secure link or QR code on any phone
+- **Agent-native by design** — this repo starts with a SKILL.md so any agent (Claude, GPT, or your own) can create and manage consent requests as part of a larger workflow
+- **No account required to sign** — recipients approve via a link or QR code on any phone, so agents can request consent from people outside your system
+- **Audit-ready by default** — every consent is timestamped, and kept as a full audit trail your agent (or a human) can query
 - **GDPR by design** — EU accounts on European infrastructure, US accounts in the US
-- **Searchable records** — find any signed consent in seconds, export whenever you need
 
 ## Get started
 
 - [iOS App](https://apps.apple.com/app/id6766571378) · [Android App](https://play.google.com/store/apps/details?id=com.xlcloud.consent)
 - Questions? Reach us at [info@consent.app](mailto:info@consent.app)
+
+This org holds everything for integrating consent creation into agentic and third-party workflows — starting with the skill definition that lets an agent request, track, and act on consent as a first-class capability.
 
 ## Repositories
 

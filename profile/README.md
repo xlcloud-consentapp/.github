@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/xlcloud-consentapp/.github/tree/main/images/consent-app-logo.svg" alt="consent.app logo" width="120" />
+<img src="https://raw.githubusercontent.com/xlcloud-consentapp/.github/main/images/consent-app-logo.svg" alt="consent.app logo" width="120" />
 
 # consent.app
 

@@ -18,16 +18,16 @@
 
 One tool for every kind of consent: parental permissions, liability waivers, photo & video releases, age confirmation, emergency & health info, confidentiality agreements, and more.
 
-- 🔒 **Audit-ready by default** — every consent is timestamped, cryptographically signed, and kept as a full audit trail
-- 📱 **No app required to sign** — recipients approve via a secure link or QR code on any phone
+- **Audit-ready by default** — every consent is timestamped, cryptographically signed, and kept as a full audit trail
+- **No app required to sign** — recipients approve via a secure link or QR code on any phone
 - 🇪🇺 **GDPR by design** — EU accounts on European infrastructure, US accounts in the US
-- 🔍 **Searchable records** — find any signed consent in seconds, export whenever you need
+- **Searchable records** — find any signed consent in seconds, export whenever you need
 
 ## Get started
 
-- 🌐 [consent.app](https://consent.app/en/)
-- 📱 [iOS App](https://apps.apple.com/app/id6766571378) · [Android App](https://play.google.com/store/apps/details?id=com.xlcloud.consent)
-- 💬 Questions? Reach us at [info@consent.app](mailto:info@consent.app)
+- [consent.app](https://consent.app/en/)
+- [iOS App](https://apps.apple.com/app/id6766571378) · [Android App](https://play.google.com/store/apps/details?id=com.xlcloud.consent)
+- Questions? Reach us at [info@consent.app](mailto:info@consent.app)
 
 ## Repositories
 

@@ -33,7 +33,7 @@ One tool for every kind of consent: parental permissions, liability waivers, pho
 
 | Repo | Description |
 |------|-------------|
-| _add your key repos here_ | _short description_ |
+| `skills` _(private)_ | Skill that gates critical or irreversible actions (payments, bookings, emails, sign-ups, checkouts) behind human approval via the Consent App. The agent creates a consent request with a user-provided API key; the user approves or rejects it in the Consent App mobile app — a human-in-the-loop safeguard for autonomous agents. |
 
 ---
 

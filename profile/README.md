@@ -20,7 +20,7 @@ One tool for every kind of consent: parental permissions, liability waivers, pho
 
 - **Audit-ready by default** — every consent is timestamped, cryptographically signed, and kept as a full audit trail
 - **No app required to sign** — recipients approve via a secure link or QR code on any phone
-- 🇪🇺 **GDPR by design** — EU accounts on European infrastructure, US accounts in the US
+- **GDPR by design** — EU accounts on European infrastructure, US accounts in the US
 - **Searchable records** — find any signed consent in seconds, export whenever you need
 
 ## Get started

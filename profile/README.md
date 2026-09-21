@@ -25,7 +25,6 @@ One tool for every kind of consent: parental permissions, liability waivers, pho
 
 ## Get started
 
-- [consent.app](https://consent.app/en/)
 - [iOS App](https://apps.apple.com/app/id6766571378) · [Android App](https://play.google.com/store/apps/details?id=com.xlcloud.consent)
 - Questions? Reach us at [info@consent.app](mailto:info@consent.app)
 

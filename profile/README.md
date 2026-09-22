@@ -34,10 +34,10 @@ This org holds everything for integrating consent creation into agentic and thir
 
 | Repo | Description |
 |------|-------------|
-| `skills` | Skill that gates critical or irreversible actions (payments, bookings, emails, sign-ups, checkouts) behind human approval via the Consent App. The agent creates a consent request with a user-provided API key; the user approves or rejects it in the Consent App mobile app — a human-in-the-loop safeguard for autonomous agents. |
+| `skills` | Skill that gates critical or irreversible actions (payments, bookings, emails, sign-ups, checkouts) behind human approval via consent.app. The agent creates a consent request with a user-provided API key; the user approves or rejects it in the consent.app mobile app — a human-in-the-loop safeguard for autonomous agents. |
 
 ---
 
 <div align="center">
-<sub>© 2026 consent.app</sub>
+<sub>© 2026 XLCloud GmbH</sub>
 </div>

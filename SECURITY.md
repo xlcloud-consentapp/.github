@@ -2,7 +2,7 @@
 
 ## Security
 
-consent.app takes the security of our software product and service very seriously, which includes all source code repositories managed through our GitHub organization.
+The consent.app team takes the security of our software product and service very seriously, which includes all source code repositories managed through our GitHub organization.
 
 If you believe you have found a security vulnerability in any consent.app repository, please report it to us as described below.
 
